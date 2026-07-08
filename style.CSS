@@ -1,0 +1,20 @@
+ul{ 
+  list-style-type ; name 
+  margine : 0 ;
+  padding :0;
+  Width : 200px;
+  background color:#f1f1f1;
+}
+
+li a {
+	display: block;
+	color: black;
+	padding: 8px 16 px;
+	text-decoration: none;
+}
+
+/* change the link and background color on hover*/
+li a :hover { 
+   background-color:#555555;
+   color:white;
+ }
